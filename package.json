@@ -2,7 +2,7 @@
   "name": "dirtreejs",
   "version": "0.0.1",
   "description": "Creates a tree, folder list and file list",
-  "main": "index.js"
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/damiantoczek/dirTreejs.git"
